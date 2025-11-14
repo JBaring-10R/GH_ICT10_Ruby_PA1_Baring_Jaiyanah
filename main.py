@@ -13,7 +13,7 @@ display(COCC, target='output')
 display('(ᴀᴛ ʟᴇᴀꜱᴛ ᴏɴᴇ ᴄʟᴜʙ):', target='output')
 display(Art_Club | COCC, target="output")
 
-display('(Both clubs):', target='output')
+display('(ʙᴏᴛʜ ᴄʟᴜʙꜱ):', target='output')
 display(Art_Club & COCC, target='output')
 
 display('ᴏɴʟʏ ɪɴ ᴀʀᴛ ᴄʟᴜʙ:', target='output')
